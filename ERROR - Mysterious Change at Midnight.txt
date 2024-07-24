@@ -1,0 +1,24 @@
+Current Base Image:  file:///C:/Users/egott/projects/solidity/my-nft/shifter-0/2.png
+script.js:248 New Base Image:  2.png
+script.js:119 {Shift Frequency: 12, Max Shift Frequency: 24, Time Unit: 'hours', Max Value: 94, Max Max: 360, …}Current Value: 1.170648148148148Integer: falseMax Max: 360Max Shift Frequency: 24Max Value: 94Shift Frequency: 12Time Unit: "hours"[[Prototype]]: Object
+script.js:263 Current Hue Rotation:  hue-rotate(62.7145deg)
+script.js:210 Shift Percent:  0.6666435185185186
+script.js:265 New Hue Rotation:  62.67101851851851
+script.js:246 Current Base Image:  file:///C:/Users/egott/projects/solidity/my-nft/shifter-0/2.png
+script.js:248 New Base Image:  3.png
+script.js:119 {Shift Frequency: 12, Max Shift Frequency: 24, Time Unit: 'hours', Max Value: 94, Max Max: 360, …}Current Value: 1.170648148148148Integer: falseMax Max: 360Max Shift Frequency: 24Max Value: 94Shift Frequency: 12Time Unit: "hours"[[Prototype]]: Object
+script.js:263 Current Hue Rotation:  hue-rotate(62.671deg)
+script.js:210 Shift Percent:  0.00020833333333333335
+script.js:265 New Hue Rotation:  0.03916666666666667
+script.js:246 Current Base Image:  file:///C:/Users/egott/projects/solidity/my-nft/shifter-0/3.png
+script.js:248 New Base Image:  3.png
+script.js:119 {Shift Frequency: 12, Max Shift Frequency: 24, Time Unit: 'hours', Max Value: 94, Max Max: 360, …}Current Value: 0.9965740740740741Integer: falseMax Max: 360Max Shift Frequency: 24Max Value: 94Shift Frequency: 12Time Unit: "hours"[[Prototype]]: Object
+script.js:263 Current Hue Rotation:  hue-rotate(0.0391667deg)
+script.js:210 Shift Percent:  0.0004398148148148148
+script.js:265 New Hue Rotation:  0.08268518518518518
+script.js:246 Current Base Image:  file:///C:/Users/egott/projects/solidity/my-nft/shifter-0/3.png
+script.js:248 New Base Image:  3.png
+script.js:119 {Shift Frequency: 12, Max Shift Frequency: 24, Time Unit: 'hours', Max Value: 94, Max Max: 360, …}Current Value: 1.4317592592592592Integer: falseMax Max: 360Max Shift Frequency: 24Max Value: 94Shift Frequency: 12Time Unit: "hours"[[Prototype]]: Object
+script.js:263 Current Hue Rotation:  hue-rotate(0.0826852deg)
+script.js:210 Shift Percent:  0.0006712962962962962
+script.js:265 New Hue Rotation:  0.1262037037037037

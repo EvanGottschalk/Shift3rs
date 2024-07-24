@@ -1,0 +1,88 @@
+/*  background:-moz-radial-gradient(circle at 50% 50%, #ffffff00 0%, #000000 100%);
+    background:-webkit-radial-gradient(circle at 50% 50%, #ffffff00 0%, #000000 100%);
+    background:-o-radial-gradient(circle at 50% 50%, #ffffff00 0%, #000000 100%);
+    background:-ms-radial-gradient(circle at 50% 50%, #ffffff00 0%, #000000 100%);
+*/
+
+html, body {
+    margin: 0% 0% 0% 0%;
+}
+
+.colorOverlay {
+    background-color: #000000;
+    position: absolute;
+    z-index: 9999;
+    filter:opacity(100%);
+    background:radial-gradient(circle at 50% 50%, #ffffff00 0%, #ffffff00 25%, #000000 100%);
+}
+
+.imageContainer {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.imageOverlay {
+    height: 100%;
+    width: 100vh;
+    position: absolute;
+    object-fit: cover;
+    z-index: 2;
+}
+
+.baseImage {
+    margin: 0% 0% -1% 0%;
+    height: 100%;
+    width: 100vh;
+    z-index: 1;
+    filter:hue-rotate(0deg);
+}
+
+.videoContainer {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.videoOverlay {
+    height: 100%;
+    width: 100vh;
+    position: absolute;
+    object-fit: cover;
+    z-index: 2;
+}
+
+.emrgncVideo {
+    margin: 0% 0% -1% 0%;
+    height: 100%;
+    width: 100vh;
+    z-index: 1;
+    filter:hue-rotate(0deg);
+}
+
+/* All Phones */
+@media only screen and (max-width: 415px) {
+    html, body {
+        background-color: #ffffff;
+        margin: 8.75% 0% 0% 0%;
+        box-sizing: border-box;
+    }
+    
+    .imageOverlay {
+        width: 100%;
+        height: 100vw;
+    }
+    
+    .baseImage {
+        margin: 0% 0% 0% 0%;
+        width: 100%;
+    }
+
+    .videoOverlay {
+        width: 100%;
+        height: 100vw;
+    }
+    
+    .baseVideo {
+        margin: 0% 0% 0% 0%;
+        width: 100%;
+    }
+}
