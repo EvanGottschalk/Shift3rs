@@ -82,9 +82,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-`Shift3rs` is NFT art that shifts to match its viewer
+`Shift3rs` is NFT art that shifts to match its viewer.
 
-MORE_DESCRIPTION
+When someone looks at an image on their phone, the viewer is in a particular place at a particular time. The device knows this information, even without sharing it with the app that's showing them the image. Using this basic feature of modern computers, Shift3rs transform in their appearance to reflect, match, or enhance the setting of the person looking at it.
 
 
 <a href="https://github.com/EvanGottschalk/Shift3rs">
@@ -103,6 +103,7 @@ MORE_DESCRIPTION
 
 * [MetaBoss](https://metaboss.rs/) - this amazing library provides functions for creating and interacting with SPL tokens
 * [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/) - this library provides fundamental tools for interacting with the Solana blockchain
+* [Javascript] - simple, built-in Javascript allows for varying the display of an image based on devices' local times and locations
 
 
 
@@ -179,13 +180,7 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-After getting the program running, you can use a test wallet address, or the address from your web wallet. To use your web wallet, first get the private key, and then derive the keypair array using `Shift3rs`
-
-Once you have your keypair file, you are ready to go! `Shift3rs` can be used to mint NFTs and fungible tokens on Solana's mainnet and devnet.
-
-On devnet, you can use `Shift3rs` to request an airdrop and start minting!
-
-On mainnet, you will have to first deposit some SOL into your wallet before you can start minting with `Shift3rs`.
+To make a Shift3r, first assemble a group of related pictures you would like to use. Then, you can deploy your shifter to the Solana blockchain using the default settings. If you want, you can modify the settings to change the way the pictures change.
 
 
 
