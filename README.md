@@ -103,7 +103,7 @@ When someone looks at an image on their phone, the viewer is in a particular pla
 
 * [MetaBoss](https://metaboss.rs/) - this amazing library provides functions for creating and interacting with SPL tokens
 * [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/) - this library provides fundamental tools for interacting with the Solana blockchain
-* [Javascript] - simple, built-in Javascript allows for varying the display of an image based on devices' local times and locations
+* Javascript - simple, built-in Javascript allows for varying the display of an image based on devices' local times and locations
 
 
 
