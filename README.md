@@ -1,16 +1,3 @@
-<!--
-*** Do a search and replace for the following:
-*** EvanGottschalk, repo_name, EvanOnEarth_eth, evan.blockchain@gmail.com, project_description
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -23,26 +10,26 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <!--   <a href="https://github.com/EvanGottschalk/repo_name">
+  <!--   <a href="https://github.com/EvanGottschalk/Shift3rs">
     <img src="README_images/logo.png" alt="Logo" width="250" height="130">
   </a> -->
-  <a href="https://github.com/EvanGottschalk/repo_name">
-    <img src="README_images/banner.png" alt="repo_name" height="200">
+  <a href="https://github.com/EvanGottschalk/Shift3rs">
+    <img src="README_images/banner.png" alt="Shift3rs" height="200">
   </a>
 
-  <h3 align="center">repo_name</h3>
+  <h3 align="center">Shift3rs</h3>
 
   <p align="center">
-    A project_description
+    A NFT art that shifts to match its viewer
     <br />
-    <a href="https://github.com/EvanGottschalk/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/EvanGottschalk/Shift3rs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/EvanGottschalk/repo_name">View Demo</a>
+    <a href="https://github.com/EvanGottschalk/Shift3rs">View Demo</a>
     ·
-    <a href="https://github.com/EvanGottschalk/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/EvanGottschalk/Shift3rs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/EvanGottschalk/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/EvanGottschalk/Shift3rs/issues">Request Feature</a>
   </p>
 </p>
 
@@ -95,13 +82,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-`repo_name` is a project_description
+`Shift3rs` is a NFT art that shifts to match its viewer
 
 MORE_DESCRIPTION
 
 
-<a href="https://github.com/EvanGottschalk/repo_name">
-  <img src="README_images/screenshot.png" alt="repo_name in action" height="200">
+<a href="https://github.com/EvanGottschalk/Shift3rs">
+  <img src="README_images/screenshot.png" alt="Shift3rs in action" height="200">
 </a>
 
 
@@ -146,7 +133,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-`repo_name` requires Node version 18.19.0 or later.
+`Shift3rs` requires Node version 18.19.0 or later.
 
 
 
@@ -161,7 +148,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone this repository
    ```
-   git clone https://github.com/EvanGottschalk/repo_name
+   git clone https://github.com/EvanGottschalk/Shift3rs
    ```
 2. Initialize a new Node project
    ```
@@ -177,7 +164,7 @@ To get a local copy up and running follow these simple steps.
    ```
 5. Run the program
    ```
-   npx run scripts/repo_name.js
+   npx run scripts/Shift3rs.js
    ```
 
 
@@ -192,13 +179,13 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-After getting the program running, you can use a test wallet address, or the address from your web wallet. To use your web wallet, first get the private key, and then derive the keypair array using `repo_name`
+After getting the program running, you can use a test wallet address, or the address from your web wallet. To use your web wallet, first get the private key, and then derive the keypair array using `Shift3rs`
 
-Once you have your keypair file, you are ready to go! `repo_name` can be used to mint NFTs and fungible tokens on Solana's mainnet and devnet.
+Once you have your keypair file, you are ready to go! `Shift3rs` can be used to mint NFTs and fungible tokens on Solana's mainnet and devnet.
 
-On devnet, you can use `repo_name` to request an airdrop and start minting!
+On devnet, you can use `Shift3rs` to request an airdrop and start minting!
 
-On mainnet, you will have to first deposit some SOL into your wallet before you can start minting with `repo_name`.
+On mainnet, you will have to first deposit some SOL into your wallet before you can start minting with `Shift3rs`.
 
 
 
@@ -212,7 +199,7 @@ On mainnet, you will have to first deposit some SOL into your wallet before you 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/EvanGottschalk/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/EvanGottschalk/Shift3rs/issues) for a list of proposed features (and known issues).
 
 ### Upcoming Features
 
@@ -271,7 +258,7 @@ Distributed under the GNU GPL-3 License. See `LICENSE` for more information.
 
 Evan Gottschalk - [@EvanOnEarth_eth](https://twitter.com/EvanOnEarth_eth) - evan.blockchain@gmail.com
 
-Project Link: [https://github.com/EvanGottschalk/repo_name](https://github.com/EvanGottschalk/repo_name)
+Project Link: [https://github.com/EvanGottschalk/Shift3rs](https://github.com/EvanGottschalk/Shift3rs)
 
 
 
@@ -295,15 +282,15 @@ Thinking about contributing to this project? Please do! Your Github username wil
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/EvanGottschalk/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/EvanGottschalk/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/EvanGottschalk/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/EvanGottschalk/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/EvanGottschalk/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/EvanGottschalk/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/EvanGottschalk/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/EvanGottschalk/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/EvanGottschalk/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/EvanGottschalk/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/EvanGottschalk/Shift3rs.svg?style=for-the-badge
+[contributors-url]: https://github.com/EvanGottschalk/Shift3rs/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/EvanGottschalk/Shift3rs.svg?style=for-the-badge
+[forks-url]: https://github.com/EvanGottschalk/Shift3rs/network/members
+[stars-shield]: https://img.shields.io/github/stars/EvanGottschalk/Shift3rs.svg?style=for-the-badge
+[stars-url]: https://github.com/EvanGottschalk/Shift3rs/stargazers
+[issues-shield]: https://img.shields.io/github/issues/EvanGottschalk/Shift3rs.svg?style=for-the-badge
+[issues-url]: https://github.com/EvanGottschalk/Shift3rs/issues
+[license-shield]: https://img.shields.io/github/license/EvanGottschalk/Shift3rs.svg?style=for-the-badge
+[license-url]: https://github.com/EvanGottschalk/Shift3rs/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/EvanGottschalk
