@@ -20,7 +20,7 @@
   <h3 align="center">Shift3rs</h3>
 
   <p align="center">
-    A NFT art that shifts to match its viewer
+    NFT art that shifts to match its viewer
     <br />
     <a href="https://github.com/EvanGottschalk/Shift3rs"><strong>Explore the docs »</strong></a>
     <br />
@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-`Shift3rs` is a NFT art that shifts to match its viewer
+`Shift3rs` is NFT art that shifts to match its viewer
 
 MORE_DESCRIPTION
 
