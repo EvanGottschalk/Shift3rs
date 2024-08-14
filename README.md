@@ -198,9 +198,9 @@ See the [open issues](https://github.com/EvanGottschalk/Shift3rs/issues) for a l
 
 ### Upcoming Features
 
-* feature_1
-* feature_2
-* feature_3
+* Automatic minting
+* Automatic preview image generation (particularly for NFT marketplaces like Magic Eden and OpenSea)
+* More blockchains
 
 
 
